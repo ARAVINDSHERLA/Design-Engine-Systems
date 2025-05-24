@@ -1,5 +1,4 @@
-# Design a Full Text Search or search Engine (Traditional and AI Based) 
-# Goal: Fast & Efficient searches across large amount of textual data.
+Goal: Fast & Efficient searches across large amount of textual data.
 
 # Designing a Full Text Search System: Traditional and AI-Based Approaches
 
