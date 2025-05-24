@@ -1,15 +1,15 @@
-Design a Search Engine System Platform:Claude
+# Design a Search Engine System Platform: Claude
 Functionalities Requirements:
-1.Distributed
-2.SQL,NO SQL-Distributed
-3.AI-Powered Search
-3.Full Text Search
-4.Non -Functional Requirements: Low Latency, High Throughput, Scalability
-5.LLD,HLD
-6.DSA-Algorithms & Protocol Used
-7.Tech Stack    
--Ignore writing code
-8.Complete Architecture diagram with all layers and components
+- Distributed
+- SQL,NO SQL-Distributed
+- AI-Powered Search
+- Full Text Search
+- Non -Functional Requirements: Low Latency, High Throughput, Scalability
+- LLD,HLD
+- DSA-Algorithms & Protocol Used
+- Tech Stack    
+- Ignore writing code
+- Complete Architecture diagram with all layers and components
 
 # Distributed Search Engine System Platform Design
 
